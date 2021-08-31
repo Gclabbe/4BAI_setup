@@ -1,0 +1,21 @@
+name: 4BAI
+
+channels:
+  - conda-forge
+  - plotly
+  - nvidia
+  - rapidsai
+
+dependencies:
+  - python=3.8
+  - pip
+  - pandas
+  - seaborn
+  - matplotlib
+  - nodejs
+  - awswrangler
+  - scikit-learn
+  - lightgbm
+  - statsmodels
+  - py-xgboost
+  - rapids
